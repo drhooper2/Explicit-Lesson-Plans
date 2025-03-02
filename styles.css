@@ -118,6 +118,7 @@ p {
     height: auto;
     border-radius: 10px; /* Optional for rounded corners */
     margin-right: 75px; /* this moves text right */
+    
 }
 
 .container {
@@ -136,6 +137,7 @@ p {
     width: 200px; /* Adjust as needed */
     height: 325px;
     border-radius: 10px; /* Optional */
+    
     
 }
 
@@ -156,7 +158,11 @@ p {
 }
 .image {
     margin-left: 60px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 20px 20px 50px black;
 }
+
 
 
 
